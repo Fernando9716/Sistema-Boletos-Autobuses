@@ -1,0 +1,2 @@
+Vista.GestionAsientosAutob
+Vista.GestionAsientosAutob$1
